@@ -1,13 +1,16 @@
 
-# My sameple React application - my-react-fetch
+# My sample React application - my-react-fetch
 
-Review codes with comments to understand concepts:
+Review codes with comments to understand React concepts:
+
 - Technical points: useEffect ( fetch data from a remote url ). 
-- There are 2 implementions: useState and  useReducer. Find then the commit history.
+- There are 3 style changes for the implementation. They can be found over the commit history:
+    - useState + useEffect,  
+    - useState -> useReducer. 
+    - class components -> functional components.
 
 
-
-### The application is created  by  create-react-app
+# The application is created  by  create-react-app
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
